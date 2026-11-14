@@ -1,0 +1,329 @@
+{
+ "document": {
+  "payload": {
+   "shutdowns": [
+    {
+     "guid": "96a5ba05-2a58-4251-97d2-97df145f3331",
+     "areas": [
+      "Pleszew obszar wiejski w gminie miejsko-wiejskiej"
+     ],
+     "hours": [
+      {
+       "toDate": "2026-10-14T07:00:00Z",
+       "fromDate": "2026-10-14T06:30:00Z"
+      }
+     ],
+     "deptId": 3,
+     "endDate": "2026-10-14T07:00:00Z",
+     "groupId": "305b74e6-f37f-49a6-943c-46e92ad7972e",
+     "message": "Nowa Wieś od 11 do 17, 19, od 21 do 25, 25A, 26, 26A, 26B, 27A, 28, 29, 29A, 30, 30A, 31, 31B, 31C, 32, 228/2, DZ. 144.",
+     "counties": [
+      3020
+     ],
+     "deptName": "Kalisz",
+     "regionId": 14,
+     "startDate": "2026-10-14T06:30:00Z",
+     "regionName": "Jarocin",
+     "shutdownType": 2
+    },
+    {
+     "guid": "e37333c0-5233-4f1a-93b4-bb5e917be085",
+     "areas": [
+      "Gizałki gmina wiejska"
+     ],
+     "hours": [
+      {
+       "toDate": "2026-10-14T07:00:00Z",
+       "fromDate": "2026-10-14T06:30:00Z"
+      }
+     ],
+     "deptId": 3,
+     "endDate": "2026-10-14T07:00:00Z",
+     "groupId": "305b74e6-f37f-49a6-943c-46e92ad7972e",
+     "message": "Nowa Wieś 27, 28.",
+     "counties": [
+      3020
+     ],
+     "deptName": "Kalisz",
+     "regionId": 14,
+     "startDate": "2026-10-14T06:30:00Z",
+     "regionName": "Jarocin",
+     "shutdownType": 2
+    },
+    {
+     "guid": "d1d17981-900b-4335-8b43-d5a192409f33",
+     "areas": [
+      "Iława gmina wiejska"
+     ],
+     "hours": [
+      {
+       "toDate": "2026-10-19T12:00:00Z",
+       "fromDate": "2026-10-19T07:00:00Z"
+      }
+     ],
+     "deptId": 5,
+     "endDate": "2026-10-19T12:00:00Z",
+     "groupId": null,
+     "message": "Nowa Wieś ulica Koralowa , 0027-285/3 (MDZ).",
+     "counties": [
+      2807
+     ],
+     "deptName": "Olsztyn",
+     "regionId": 29,
+     "startDate": "2026-10-19T07:00:00Z",
+     "regionName": "Iława",
+     "shutdownType": 2
+    },
+    {
+     "guid": "f7966343-d8ba-4a26-b97f-93e1b78e1731",
+     "areas": [
+      "Malbork gmina wiejska"
+     ],
+     "hours": [
+      {
+       "toDate": "2026-10-23T12:00:00Z",
+       "fromDate": "2026-10-23T06:00:00Z"
+      }
+     ],
+     "deptId": 5,
+     "endDate": "2026-10-23T12:00:00Z",
+     "groupId": null,
+     "message": "Nowa Wieś Malborska ulice Fińska 1, 3, Norweska 5, Szwedzka 20, 22, 24, 24B, 24C, 24E, 24F, 321 , 321/34 (MDZ), 321/6 (MDZ), 323.",
+     "counties": [
+      2209
+     ],
+     "deptName": "Olsztyn",
+     "regionId": 4,
+     "startDate": "2026-10-23T06:00:00Z",
+     "regionName": "Malbork",
+     "shutdownType": 2
+    },
+    {
+     "guid": "f5c53f77-55d5-4f7b-bbcf-c4ef08057c69",
+     "areas": [
+      "Pleszew miasto w gminie miejsko-wiejskiej"
+     ],
+     "hours": [
+      {
+       "toDate": "2026-10-14T07:00:00Z",
+       "fromDate": "2026-10-14T06:30:00Z"
+      }
+     ],
+     "deptId": 3,
+     "endDate": "2026-10-14T07:00:00Z",
+     "groupId": null,
+     "message": "Pleszew ulica 70 Pułku Piechoty .",
+     "counties": [
+      3020
+     ],
+     "deptName": "Kalisz",
+     "regionId": 14,
+     "startDate": "2026-10-14T06:30:00Z",
+     "regionName": "Jarocin",
+     "shutdownType": 2
+    },
+    {
+     "guid": "cfec0609-552e-46d8-bc97-ab5e95ae562a",
+     "areas": [
+      "Płock gmina miejska"
+     ],
+     "hours": [
+      {
+       "toDate": "2026-10-16T09:45:00Z",
+       "fromDate": "2026-10-16T06:45:00Z"
+      }
+     ],
+     "deptId": 6,
+     "endDate": "2026-10-16T09:45:00Z",
+     "groupId": null,
+     "message": "Płock ulice Jordanowska 25, Nizinna 44, 48, 50, 52, 56, 58A, 60, 60A, 64, 73, Płock-480/4, Płock-480/5, Tokarska 23, 39, 40, 44, 46 , Płock-213, 214.",
+     "counties": [
+      1462
+     ],
+     "deptName": "Płock",
+     "regionId": 40,
+     "startDate": "2026-10-16T06:45:00Z",
+     "regionName": "Płock",
+     "shutdownType": 2
+    },
+    {
+     "guid": "6b681087-2efb-4f3c-912f-fdc8ab7d1c57",
+     "areas": [
+      "Płock gmina miejska"
+     ],
+     "hours": [
+      {
+       "toDate": "2026-10-20T12:00:00Z",
+       "fromDate": "2026-10-20T09:15:00Z"
+      }
+     ],
+     "deptId": 6,
+     "endDate": "2026-10-20T12:00:00Z",
+     "groupId": null,
+     "message": "Płock ulica Jędrzejewo , Płock-18/19.",
+     "counties": [
+      1462
+     ],
+     "deptName": "Płock",
+     "regionId": 40,
+     "startDate": "2026-10-20T09:15:00Z",
+     "regionName": "Płock",
+     "shutdownType": 2
+    },
+    {
+     "guid": "0312d1f2-5829-407d-a0de-b9d2ef480056",
+     "areas": [
+      "Płock gmina miejska"
+     ],
+     "hours": [
+      {
+       "toDate": "2026-10-21T10:30:00Z",
+       "fromDate": "2026-10-21T06:30:00Z"
+      }
+     ],
+     "deptId": 6,
+     "endDate": "2026-10-21T10:30:00Z",
+     "groupId": null,
+     "message": "Płock ulice Bielska 105, Płock-2-264, 2-266, Okólna 21, Sierpecka 1, 1 i, 1a, 1A, 1b, 1E, 1M, 2, 10, 14, 38, Szkolna 1.",
+     "counties": [
+      1462
+     ],
+     "deptName": "Płock",
+     "regionId": 40,
+     "startDate": "2026-10-21T06:30:00Z",
+     "regionName": "Płock",
+     "shutdownType": 2
+    },
+    {
+     "guid": "4d530114-87f6-469d-b4a3-7c4be61eea46",
+     "areas": [
+      "Płock gmina miejska"
+     ],
+     "hours": [
+      {
+       "toDate": "2026-10-23T08:30:00Z",
+       "fromDate": "2026-10-23T06:30:00Z"
+      }
+     ],
+     "deptId": 6,
+     "endDate": "2026-10-23T08:30:00Z",
+     "groupId": null,
+     "message": "Płock ulica Narodowych Sił Zbrojnych .",
+     "counties": [
+      1462
+     ],
+     "deptName": "Płock",
+     "regionId": 40,
+     "startDate": "2026-10-23T06:30:00Z",
+     "regionName": "Płock",
+     "shutdownType": 2
+    },
+    {
+     "guid": "8d0a3f3d-9273-4dc6-a164-b6f79a394da8",
+     "areas": [
+      "Sławoborze gmina wiejska"
+     ],
+     "hours": [
+      {
+       "toDate": "2026-10-14T23:45:00Z",
+       "fromDate": "2026-10-14T13:40:01Z"
+      }
+     ],
+     "deptId": 4,
+     "endDate": "2026-10-14T23:45:00Z",
+     "groupId": null,
+     "message": "Słowenkowo.",
+     "counties": [
+      3216
+     ],
+     "deptName": "Koszalin",
+     "regionId": 19,
+     "startDate": "2026-10-14T13:40:01Z",
+     "regionName": "Białogard",
+     "shutdownType": 1
+    },
+    {
+     "guid": "1a0dec0a-b8f7-4e4c-9baf-5026031bc92f",
+     "areas": [
+      "Gdynia gmina miejska"
+     ],
+     "hours": [
+      {
+       "toDate": "2026-10-15T03:00:00Z",
+       "fromDate": "2026-10-14T20:01:51.707Z"
+      }
+     ],
+     "deptId": 2,
+     "endDate": "2026-10-15T03:00:00Z",
+     "groupId": null,
+     "message": "Gdynia ulice Chwarznieńska, Deszczowa, Henryka Szymańskiego, Joachima Joachimczyka, kpt. Zdzisława Pieńkawy, Mieczysławy Pobłockiej.",
+     "counties": [
+      2262
+     ],
+     "deptName": "Gdańsk",
+     "regionId": 6,
+     "startDate": "2026-10-14T20:01:51.707Z",
+     "regionName": "Gdynia",
+     "shutdownType": 1
+    },
+    {
+     "guid": "c3b61908-ba09-4ba8-9e3c-d0a366e93a6e",
+     "areas": [
+      "Studzienice gmina wiejska"
+     ],
+     "hours": [
+      {
+       "toDate": "2026-10-14T07:00:00Z",
+       "fromDate": "2026-10-14T06:00:00Z"
+      },
+      {
+       "toDate": "2026-10-14T12:30:00Z",
+       "fromDate": "2026-10-14T11:30:00Z"
+      }
+     ],
+     "deptId": 4,
+     "endDate": "2026-10-14T12:30:00Z",
+     "groupId": null,
+     "message": "Kłączno ulice Długa 5, 20, Jagodowa 2, 4, Jeziorna 1, 3, 5, 8, 9, 11, 20, Krótka 6, Leśna 2, 10, 16, Lipowa 6, Malinowa od 1 do 3, 6, Miechowicka 7, 9, Polna 2, Poziomkowa 1, 4, Sosnowa 1, Spacerowa od 2 do 4, Strażacka 2, 4, Wczasowa 1, 6, 8, 9, 11, 13, Kłączno-57/22 (GPO) (MDZ) 1, 1/W, 1i, 4, 7, 8, 11, 12, 12 C, 12/D, 12/F, 12E, 12H, 13, 16, 18D, 20, 22/a, od 24 do 26, od 28 do 30, 32, 33, 45, 46, 56, .-41, 57, 57/7, dz 13/4, dz. 57/2, Małe 1.",
+     "counties": [
+      2201
+     ],
+     "deptName": "Koszalin",
+     "regionId": 33,
+     "startDate": "2026-10-14T06:00:00Z",
+     "regionName": "Bytów",
+     "shutdownType": 2
+    },
+    {
+     "guid": "d7f11c14-ae2f-4c04-92e4-4c3b9bc31680",
+     "areas": [
+      "Zalewo obszar wiejski w gminie miejsko-wiejskiej"
+     ],
+     "hours": [
+      {
+       "toDate": "2026-10-13T08:00:00Z",
+       "fromDate": "2026-10-13T06:00:00Z"
+      },
+      {
+       "toDate": "2026-10-14T14:00:00Z",
+       "fromDate": "2026-10-14T11:00:00Z"
+      }
+     ],
+     "deptId": 5,
+     "endDate": "2026-10-14T14:00:00Z",
+     "groupId": null,
+     "message": "Półwieś 24, od 29 do 36, 39, 40., 42, 42., 43, 44, 47, Półwieś 29B, 32, 32.., 38.",
+     "counties": [
+      2807
+     ],
+     "deptName": "Olsztyn",
+     "regionId": 29,
+     "startDate": "2026-10-13T06:00:00Z",
+     "regionName": "Iława",
+     "shutdownType": 2
+    }
+   ]
+  },
+  "lastUpdate": "2026-10-14T21:15:45.302Z"
+ }
+}

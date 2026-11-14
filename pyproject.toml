@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "electricity-alert-pl"
+version = "0.1.0"
+description = "Planned power outage alerts for addresses in Poland (PGE, TAURON, Enea, Energa, Stoen)."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "All rights reserved" }
+dependencies = [
+    "httpx>=0.28.1",
+    "tzdata>=2026.6; sys_platform == 'win32'",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=9.2.0"]
+
+[project.scripts]
+electricity-alert = "electricity_alert.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 140
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
