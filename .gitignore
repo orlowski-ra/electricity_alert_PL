@@ -10,3 +10,9 @@ dist/
 .coverage
 .idea/
 .vscode/
+
+# local app data (SQLite database and caches)
+.electricity_alert/
+*.db
+*.sqlite
+*.sqlite3
